@@ -1,6 +1,10 @@
 # Employee Management System Project
--- Implemented following features in this project:
+<p>This Employee Management Web Application offers streamlined employee record management with features like adding, updating, and deleting employee details, along with pagination and sorting for efficient data handling. It also includes secure user authentication, registration, and logout functionalities to ensure data integrity and user privacy.
+</p>
+<br>
 
+<h2>Features : </h2>
+<br>
  - List Employee Feature: Displays all employee records for easy viewing and management.
 
 - Add Employee Feature: Streamlines the addition of new employees through an intuitive interface.
