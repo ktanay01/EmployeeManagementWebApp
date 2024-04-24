@@ -4,6 +4,7 @@
 
 <h2>Features : </h2>
 <p>
+ 
 - List Employee Feature: Displays all employee records for easy viewing and management.
 
 - Add Employee Feature: Streamlines the addition of new employees through an intuitive interface.
@@ -26,6 +27,7 @@
 
 <h2>Tools and technologies used:</h2>
 <p>
+ 
 - Java
 - Spring Boot
 - Spring Data JPA ( Hibernate)
