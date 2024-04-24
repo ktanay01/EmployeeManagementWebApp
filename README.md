@@ -1,5 +1,5 @@
 # Employee Management System Project
-Implemented following features in this project:
+-- Implemented following features in this project:
 
  - List Employee Feature: Displays all employee records for easy viewing and management.
 
