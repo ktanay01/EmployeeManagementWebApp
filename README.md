@@ -4,8 +4,8 @@
 <br>
 
 <h2>Features : </h2>
-<br>
- - List Employee Feature: Displays all employee records for easy viewing and management.
+
+- List Employee Feature: Displays all employee records for easy viewing and management.
 
 - Add Employee Feature: Streamlines the addition of new employees through an intuitive interface.
 
