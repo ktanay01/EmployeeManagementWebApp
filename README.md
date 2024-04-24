@@ -33,7 +33,7 @@
 - Spring Data JPA ( Hibernate)
 - Spring Security
 - MySQL
-- Eclipse STS
+- Eclipse
 - Maven
 - Tomcat
 - Thymeleaf
