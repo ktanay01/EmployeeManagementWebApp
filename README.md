@@ -4,7 +4,7 @@
 
 <h2>Features : </h2>
 
-- <h1>List Employee Feature:</h1> Displays all employee records for easy viewing and management.
+- List Employee Feature: Displays all employee records for easy viewing and management.
 
 - Add Employee Feature: Streamlines the addition of new employees through an intuitive interface.
 
@@ -23,5 +23,5 @@
 -  Logout Feature: Terminates active user sessions securely to prevent unauthorized access.
 
 <h2>Working :</h2>
-<p>STEP 1 : </p>
+<p>STEP 1 : Hit local </p>
 
