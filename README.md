@@ -3,7 +3,7 @@
 </p>
 
 <h2>Features : </h2>
-
+<p>
 - List Employee Feature: Displays all employee records for easy viewing and management.
 
 - Add Employee Feature: Streamlines the addition of new employees through an intuitive interface.
@@ -22,7 +22,22 @@
 
 -  Logout Feature: Terminates active user sessions securely to prevent unauthorized access.
 
+  </p>
+
 <h2>Tools and technologies used:</h2>
+<p>
+- Java
+- Spring Boot
+- Spring Data JPA ( Hibernate)
+- Spring Security
+- MySQL
+- Eclipse STS
+- Maven
+- Tomcat
+- Thymeleaf
+ 
+</p>
+
 
 
 
