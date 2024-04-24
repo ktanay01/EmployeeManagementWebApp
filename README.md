@@ -23,5 +23,6 @@
 -  Logout Feature: Terminates active user sessions securely to prevent unauthorized access.
 
 <h2>Working :</h2>
-<p>STEP 1 : Hit local </p>
+<p>STEP 1 : ![step1_ss1](https://github.com/ktanay01/EmployeeManagementWebApp/assets/67087309/7b224693-6483-4977-8cf3-608118fa1a3a)
+ </p>
 
